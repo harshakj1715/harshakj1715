@@ -26,7 +26,8 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I build things with code and break them just to learn better 😄
+always exploring, always improving. Passionate about creating, debugging and bringing ideas to life...</p>
 
 ###
 
