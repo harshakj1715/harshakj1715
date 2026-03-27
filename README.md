@@ -26,8 +26,9 @@
 
 ###
 
-<p align="left">I build things with code and break them just to learn better 😄
-always exploring, always improving. Passionate about creating, debugging and bringing ideas to life...</p>
+<p align="left">I build things with code and break them just to learn better 😄</p>
+
+<p align="left">always exploring, always improving. Passionate about creating, debugging and bringing ideas to life...</p>
 
 ###
 
